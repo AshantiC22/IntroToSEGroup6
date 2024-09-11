@@ -24,6 +24,6 @@ Team Members:
 
 Languages and Techniques to be used:
   - Language: Python
-  - Framework: Django, or Flask
+  - Framework: Django
   - Database: SQlite
 
